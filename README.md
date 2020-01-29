@@ -4,7 +4,7 @@
 ## Team
 - [Amit Bharadia](https://www.github.com/AmitBharadia)
 - [Neil Shah](https://www.github.com/neilmshah)
-- [Priyal Agrawal](https://www.github.com/priyal08)
+- [Priyal Agrawal](https://github.com/Priyal-08)
 - [Shabari Girish Ganapathy](https://www.github.com/shabari8695)
 
 ## Project Description
